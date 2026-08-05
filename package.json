@@ -1,6 +1,0 @@
-{
-  "name": "site-quote-generator",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Hosted AI quote generator for contractors. Static frontend + one serverless API route."
-}
